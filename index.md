@@ -37,7 +37,7 @@ Bachelor's thesis and Pre-Master at Bosch
 
 ### 2026 – now · Berlin
 M.Sc. Business Intelligence & Process Management at HWR Berlin
-
+   <iframe src="journey_map.html" width="100%" height="450" style="border:none; border-radius:10px;"></iframe>
 ## Places I've lived
 
 <div class="pic"><img src="dubai.jpg" width="180"/><br>Dubai</div>
