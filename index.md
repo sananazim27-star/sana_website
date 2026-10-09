@@ -73,7 +73,7 @@ iframe { width:100%; height:420px; border:10px solid #fff; border-radius:22px; m
 <p>I grew up in Dubai and moved to Germany in 2021, when I was eighteen. I started with the Studienkolleg in Berlin and then studied Business and Engineering at THWS in Schweinfurt.</p>
 <p>I chose that degree because I didn't want to pick between technical and business subjects, and it suited me. I'm usually the person explaining what the business side needs to the technical side, and the other way around.</p>
 <p>In 2025 I started at Bosch in Stuttgart, first in sales and then writing my bachelor's thesis on redesigning a purchasing process. I stayed on as a Pre-Master to help put the new process in place. Bosch is where I worked with a lot of data, and where I realised I want to build up my technical skills.</p>
-<p>Now I'm doing the BIPM master's at HWR Berlin. I'm using it to get stronger on the technical side, mainly SQL and Python, and I'd like to work as a Process Owner, Product Owner or Business Analyst.</p>
+<p>Now I'm doing the BIPM master's at HWR Berlin. I'm using it to get stronger on the technical side.</p>
 </div>
 
 <h2>My journey</h2>
