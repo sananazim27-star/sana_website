@@ -103,7 +103,6 @@ iframe { width:100%; height:420px; border:10px solid #fff; border-radius:22px; m
 <p class="sub">outside of uni</p>
 <p><span class="tag">reading</span><span class="tag">baking</span><span class="tag">travelling</span><span class="tag">food</span><span class="tag">matcha</span><span class="tag">spring</span><span class="tag">beaches</span><span class="tag">sleeping</span></p>
 <div class="mosaic">
-<figure class="tile"><img src="baking.jpg"/></figure>
 <figure class="tile"><img src="cookies.jpg"/></figure>
 <figure class="tile"><img src="pizza.jpg"/></figure>
 <figure class="tile"><img src="matcha.jpg"/></figure>
